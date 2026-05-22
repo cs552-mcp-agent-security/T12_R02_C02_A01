@@ -1,3 +1,10 @@
+> **Fork notice (cs552-mcp-agent-security)**: This repository is a fork of
+> [coleifer/walrus](https://github.com/coleifer/walrus), maintained for the CS-552
+> GitHub MCP Injection Benchmark. The upstream LICENSE (MIT) is
+> preserved verbatim; original author attribution is intact.
+
+---
+
 ## Walrus
 
 ![](http://media.charlesleifer.com/blog/photos/walrus-logo-0.png)
